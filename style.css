@@ -1,0 +1,24 @@
+body,head{
+    background-color: white;
+    margin: 0%;
+    padding: 0%;
+}
+#card{
+background-color: rgb(255, 240, 247);
+display: block;
+justify-content: center;
+align-items: center;
+height: 100vh;
+}
+#gif{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+#user{
+    display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+}
+
