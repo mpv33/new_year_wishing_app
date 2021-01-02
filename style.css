@@ -27,7 +27,7 @@ height: 100vh;
        justify-content: center;
       align-items: center;     
   }
-    #wish {
-    width:100%;
+    #wish,gif {
+    width:50%;
   }
 }
