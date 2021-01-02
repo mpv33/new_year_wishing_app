@@ -23,9 +23,9 @@ height: 100vh;
 }
 @media only screen and (max-width: 600px) {
   #gif {
-    width:70vh
+    width:70vh;
   }
     #wish {
-    width:100%
+    width:100%;
   }
 }
